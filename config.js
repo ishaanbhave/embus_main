@@ -15,8 +15,8 @@ const SITE_SETTINGS = {
   // Social media links (empty string if not available)
   socialLinks: {
     facebook: "https://facebook.com/embus",
-    twitter: "https://twitter.com/embus",
-    instagram: "https://instagram.embus.in",
+    twitter: "x.com/Embus_official",
+    instagram: "www.instagram.com/embus.official?igsh=cmh0ZHQ2dW13NHZl",
     linkedin: "https://linkedin.com/company/embus",
     youtube: ""
   }
