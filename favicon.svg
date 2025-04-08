@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape -->
+  <rect width="32" height="32" rx="6" fill="#01DF73"/>
+  
+  <!-- Embus 'e' Letter -->
+  <rect x="8" y="11" width="16" height="10" rx="2" fill="#00C853"/>
+  <line x1="9" y1="16" x2="23" y2="16" stroke="#C9E600" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Stylized 'e' -->
+  <path d="M9 20L15 20C15.5523 20 16 19.5523 16 19V13C16 12.4477 15.5523 12 15 12L9 12C8.44772 12 8 12.4477 8 13V19C8 19.5523 8.44772 20 9 20Z" fill="white" stroke="#01DF73" stroke-width="1"/>
+</svg>

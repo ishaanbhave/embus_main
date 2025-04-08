@@ -1,0 +1,10 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape -->
+  <rect x="0" y="5" width="40" height="30" rx="8" fill="#4a6cfa"/>
+  
+  <!-- H Letter -->
+  <path d="M10 10V30M30 10V30M10 20H30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Company Name -->
+  <text x="50" y="27" font-family="Montserrat, sans-serif" font-size="22" font-weight="700" fill="#252934">HORIZON</text>
+</svg>
